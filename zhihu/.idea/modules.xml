@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/dongguan/.idea/dongguan.iml" filepath="E:/dongguan/.idea/dongguan.iml" />
+      <module fileurl="file://E:/mySpider/.idea/mySpider.iml" filepath="E:/mySpider/.idea/mySpider.iml" />
+      <module fileurl="file://E:/tencentcrawl/.idea/tencentcrawl.iml" filepath="E:/tencentcrawl/.idea/tencentcrawl.iml" />
+      <module fileurl="file://E:/test/.idea/test.iml" filepath="E:/test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhihu.iml" filepath="$PROJECT_DIR$/.idea/zhihu.iml" />
+      <module fileurl="file://E:/zhihu1/.idea/zhihu1.iml" filepath="E:/zhihu1/.idea/zhihu1.iml" />
+    </modules>
+  </component>
+</project>
